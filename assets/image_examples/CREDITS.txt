@@ -1,0 +1,21 @@
+公式掲載作例の出典
+
+image_2_5_cat.webp
+ChatGPT Images 2.5 — OpenAI公式掲載ポスター作例
+https://openai.com/index/introducing-chatgpt-images-2-5/
+原画像： https://images.ctfassets.net/kftzwdyauwt9/5jpsVIXTvhsaamMRBBygyj/59a740665177515836747b400f52e3fc/stickers.webp
+
+image_2_6_whale.webp
+GPT-Image 2.6 — Picsart作例、OpenAI公式記事掲載
+https://openai.com/index/introducing-images-2-6/
+原画像： https://images.ctfassets.net/kftzwdyauwt9/5g2ztPz3EqktNQwQWa7Al8/d42c517c10fcbcb3c0da00bd5fe6b26e/picsart-glass-whale.png
+
+image_2_6_owl_sketch.webp / image_2_6_owl_poster.webp / image_2_6_owl_demo.mp4
+GPT-Image 2.6 — OpenAI公式掲載のスケッチからアニメーションへのデモ
+https://openai.com/index/introducing-images-2-6/
+掲載プレイヤー： https://player.vimeo.com/video/1242957231?h=375195e1fb
+MP4は公式掲載デモの動画版です。音声を含みません。GIFファイルの出力実物ではありません。
+
+画像は縦横比を保持してWebPへ軽量化。動画は取得したMP4のバイト同一コピーです。
+掲載作例の作者・提供元を明記し、本人が生成した成果として扱っていません。
+名称・商標・掲載作品の権利はそれぞれの権利者に帰属します。OpenAI等の後援・提携を示すものではありません。
